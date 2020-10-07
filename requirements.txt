@@ -1,0 +1,6 @@
+mouse==0.7.1
+numpy==1.19.2
+pyautogui==0.9.52
+opencv-python
+wxPython
+
